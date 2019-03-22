@@ -1,12 +1,16 @@
 {
   "types": {
-    "feat": {
+    "feature": {
       "description": "A new feature",
       "title": "Features"
     },
     "fix": {
       "description": "A bug fix",
       "title": "Bug Fixes"
+    },
+    "uat": {
+      "description": "A bug fix on UAT",
+      "title": "UAT Bug Fixes"
     },
     "docs": {
       "description": "Documentation only changes",
@@ -20,7 +24,7 @@
       "description": "A code change that neither fixes a bug nor adds a feature",
       "title": "Code Refactoring"
     },
-    "perf": {
+    "performance": {
       "description": "A code change that improves performance",
       "title": "Performance Improvements"
     },
